@@ -69,5 +69,10 @@ footer {
 
 #textareaid {
     height: 3rem;
-    color:firebrick;
+    font-size: 2rem;
+}
+
+#submit {
+    position: absolute;
+    text-align: left;
 }
